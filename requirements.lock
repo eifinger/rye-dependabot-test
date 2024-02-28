@@ -8,5 +8,5 @@
 #   with-sources: false
 
 -e file:.
-backoff==2.2.1
+backoff==2.1.2
     # via rye-dependabot-test

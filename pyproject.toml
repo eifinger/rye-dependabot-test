@@ -6,7 +6,7 @@ authors = [
     { name = "Kevin Stillhammer", email = "kevin.stillhammer@gmail.com" }
 ]
 dependencies = [
-    "backoff>=2.1.2",
+    "backoff==2.1.2",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
